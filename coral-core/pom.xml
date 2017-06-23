@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.hansight.coral</groupId>
+        <artifactId>coral</artifactId>
+        <version>1.0.1</version>
+    </parent>
+    <artifactId>coral-core</artifactId>
+    <version>1.0.1</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <jdk.version>1.8</jdk.version>
+        <scala.version>2.11.11</scala.version>
+        <akka.version>2.5.2</akka.version>
+        <akka.http.version>10.0.7</akka.http.version>
+        <jetty.version>9.2.5.v20141112</jetty.version>
+        <slf4j.version>1.7.7</slf4j.version>
+        <log4j2.version>2.3</log4j2.version>
+        <elasticsearch.version>2.3.5</elasticsearch.version>
+        <metrics.version>3.1.0</metrics.version>
+    </properties>
+
+
+    <dependencies>
+
+
+
+    </dependencies>
+    <build>
+        <plugins>
+
+        </plugins>
+    </build>
+</project>
